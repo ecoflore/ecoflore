@@ -5,7 +5,7 @@ title: Accueil
 
 ## 🌱 Projet Ecoflore
 
-### FR Français
+### FR - Français
 
 L’érosion des berges est un problème à l’échelle mondiale auquel il n’y a aucune solution efficace.  
 Une des meilleures méthodes de prévention est d’effectuer la plantation d’espèces spécifiques sur les zones à risque.
@@ -17,7 +17,7 @@ De nombreux projets de construction routière sont également effectués près d
 
 ---
 
-### EN English  
+### EN - English  
 Bank erosion is a global issue for which there is no truly effective solution.  
 One of the best preventive approaches is to plant specific vegetation in high-risk areas.
 
