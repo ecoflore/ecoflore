@@ -3,6 +3,8 @@ layout: default
 title: Accueil
 ---
 
+[Page contact](contact.md)
+
 ## 🌱 Projet Ecoflore
 
 ### FR - Français
