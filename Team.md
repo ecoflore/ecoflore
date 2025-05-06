@@ -2,7 +2,7 @@
 layout: default
 title: Équipe / Team
 ---
-# [Accueil](index.md)  |  [Contact](contact.md)  |  [Projet / Project](projet.md)
+# [Accueil / Home](index.md)  |  [Projet / Project](projet.md)  |  [Contact](contact.md)  |  [Équipe / Team](Team.md)
 
 ##  Notre Équipe 
 ---
