@@ -51,7 +51,7 @@ nav {
   }
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .site-main {
     width: 95%;
     padding: 20px;
@@ -61,9 +61,9 @@ nav {
     flex-wrap: wrap;
     gap: 10px;
   }
-}
+}*/
 
-h0 {
+.header {
     color: #2a4728;
 }
 h1 {
@@ -84,17 +84,6 @@ h3 {
   display: flex;
   gap: 20px;
   padding-left: 20px;
+    color: #2a4728;
 }
 
-.site-nav a {
-  text-decoration: none;
-  color: #2a4728;
-  font-weight: bold;
-}
-
-.site-main {
-  max-width: 70%;       // ou 60%, selon ce que tu préfères
-  margin: 0 auto;          // centre horizontalement
-  padding: 40px 40px;
-  text-align: left;
-}
