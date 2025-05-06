@@ -12,5 +12,5 @@ sass:
 extra:
   head: |
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-lang: fr
+lang: fr-en
 
