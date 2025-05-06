@@ -2,7 +2,7 @@
 layout: default
 title: Équipe / Team
 ---
-# [Accueil](index.md)
+# [Accueil](index.md)  |  [Contact](contact.md) 
 
 ##  Notre Équipe 
 ---
