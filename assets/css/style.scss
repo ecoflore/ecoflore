@@ -13,6 +13,19 @@ body {
     overflow-x: hidden;
 }
 
+
+/* Ajuster la largeur de la barre de navigation (si nécessaire) */
+nav {
+    width: 100%;  /* Prendre toute la largeur */
+    padding: 0 auto;
+    color: #2a4728;
+}
+
+header {
+    width: 100%;  /* Prendre toute la largeur */
+    padding: 0 auto;
+    color: #2a4728;
+}
 /* Étendre le contenu de la div principale */
 
 .container{
@@ -42,12 +55,6 @@ body {
   padding: 50px 50px;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
-/* Ajuster la largeur de la barre de navigation (si nécessaire) */
-nav {
-    width: 100%;  /* Prendre toute la largeur */
-    padding: 50px;
-    color: #2a4728;
-}
 
 @media screen and (max-width: 100%/*768px*/) {
   .header {
