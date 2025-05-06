@@ -7,14 +7,21 @@ title: Projet / Project
 
 ## 🌱 Projet Ecoflore
 
+---
+
 ### Détails / Details
 Plus de détails à venir.
+--
 More details to come.
 
+---
 ### Technologie / Technology
 Plus de détails à venir.
+--
 More details to come.
 
+---
 ###  Objectifs / Objectives
 Plus de détails à venir.
+--
 More details to come.
