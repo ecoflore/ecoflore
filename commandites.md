@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Équipe-Team
+title: Commandites-Sponsorship
 ---
 # [Accueil-Home](index.md)  |  [Projet-Project](projet.md)  |  [Contact](contact.md)  |  [Équipe-Team](Team.md)  |  [Commandites-Sponsorship](commandites.md)
 
@@ -23,7 +23,6 @@ Nous sommes à la recherche de partenaires qui souhaitent nous appuyer soit :<br
 
 📩 **Intéressé à collaborer ?**<br>
 Écrivez-nous dès maintenant à [jerson.angel.ecoflore@outlook.com](mailto:jerson.angel.ecoflore@outlook.com) pour recevoir notre dossier de partenariat.<br>
-
 
 ---
 
