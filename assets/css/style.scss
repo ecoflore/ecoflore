@@ -5,8 +5,8 @@
 
 /* Étendre le contenu sur toute la page */
 body {
-    width: 75%;
-    max-width: 75% !important;
+    width: 90%;
+    max-width: 90% !important;
     margin: 0 auto;
     padding: 20px 20px;
     background-color: #d7d7d7;
@@ -32,27 +32,27 @@ header {
   max-width: 100%;
     width: 100%;
   margin: 0 auto;         /* Centre le container */
-  padding: 30px 30px;        /* Ajoute un peu d’espace à gauche/droite */
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
 .wrapper{
   max-width: 100%;
   width: 100%;
   margin: 0 auto;         /* Centre le container */
-  padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
 }
 .inner{
   max-width: 100%;
   width: 100%;
   margin: 0 auto;         /* Centre le container */
-  padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
 .main{
   max-width: 75%;
   width: 75%;
-  margin: 30 auto;         /* Centre le container */
-  padding: 50px 50px;        /* Ajoute un peu d’espace à gauche/droite */
+  margin: 0 auto;         /* Centre le container */
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
 
