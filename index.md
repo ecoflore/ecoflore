@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ecoflore Accueil-Home
+title: Accueil-Home
 ---
 # [Accueil-Home](index.md)  |  [Projet-Project](projet.md)  |  [Contact](contact.md)  |  [Équipe-Team](Team.md)
 
