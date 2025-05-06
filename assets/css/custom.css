@@ -1,8 +1,8 @@
 /* Étendre le contenu sur toute la page */
 body {
-    max-width: 200% !important;
-    margin: 0;
-    padding: 0;
+    max-width: 100% !important;
+    margin: 1;
+    padding: 1;
 }
 
 /* Étendre le contenu de la div principale */
