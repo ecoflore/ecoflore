@@ -16,12 +16,12 @@ body {
 a {
   color: #1a8505;              // gris foncé
   text-decoration: none;    // optionnel : supprime le soulignement
-    font-size: 36px;
+    font-size: 20px;
 }
 
-/*a:hover {
-  color: #245b19;              // couleur au survol (optionnel)
-}*/
+a:hover {
+  color: #dc7d11;              // couleur au survol (optionnel)
+}
 
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
 nav {
