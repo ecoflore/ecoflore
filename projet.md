@@ -11,7 +11,7 @@ title: Projet / Project
 
 ### Détails / Details
 Voici une photo de notre prototype:
-[Prototype #1](images/images/197640-download-free-space-wallpaper-4k-3840x2160.jpg.jpg)
+![Prototype #1](images/images/197640-download-free-space-wallpaper-4k-3840x2160.jpg.jpg)
 
 ---
 
