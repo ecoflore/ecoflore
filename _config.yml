@@ -1,4 +1,14 @@
 sttitle: Ecoflore
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
+
+# Ajouter le lien vers le CSS personnalisé
+extra:
+  head: |
+    <link rel="stylesheet" href="/assets/css/custom.css">
 lang: fr
 description: Projet Ecoflore – Replantation écologique des berges
