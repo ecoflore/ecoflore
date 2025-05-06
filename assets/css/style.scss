@@ -24,8 +24,8 @@ body {
 
 .wrapper,
 .inner{
-  max-width: 100%;
-    width: 100%;
+  max-width: 75%;
+  /*  width: 100%;*/
   margin: 0 auto;         /* Centre le container */
   padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
 }
@@ -64,7 +64,7 @@ nav {
   }
 }*/
 
-.header {
+hr {
     color: #2a4728;
 }
 h1 {
@@ -76,6 +76,10 @@ h2 {
 h3 {
     color: #5dc449;
 }
+
+/*h4{
+    color: #2a4728;
+}*/
 /* Déplacer le texte du titre à gauche */
 .site-title {
     text-align: left;
