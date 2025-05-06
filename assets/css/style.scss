@@ -13,18 +13,14 @@ body {
 }
 
 /* Étendre le contenu de la div principale */
-.container{
-  max-width: 100%;
-    width: 100%;
-  margin: 0 auto;         /* Centre le container */
-  padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
-}
+
+.container,
 .wrapper,
 .inner,
 .main{
   max-width: 100%;
     width: 100%;
-  margin: 10 10px;         /* Centre le container */
+  margin: 10 auto;         /* Centre le container */
   padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
