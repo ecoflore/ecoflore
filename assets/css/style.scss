@@ -13,6 +13,14 @@ body {
     overflow-x: hidden;
 }
 
+a {
+  color: #444;              // gris foncé
+  text-decoration: none;    // optionnel : supprime le soulignement
+}
+
+a:hover {
+  color: #000;              // couleur au survol (optionnel)
+}
 
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
 nav {
