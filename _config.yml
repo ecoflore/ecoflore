@@ -1,5 +1,6 @@
 sttitle: Ecoflore
-theme: jekyll-theme-slate
+theme: jekyll-theme-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 sass:
   style: compressed
   load_paths:
