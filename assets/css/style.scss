@@ -37,7 +37,7 @@ body {
 
 .main{
   max-width: 75%;
-  /*  width: 100%;*/
+  width: 75%;
   margin: 30 auto;         /* Centre le container */
   padding: 50px 50px;        /* Ajoute un peu d’espace à gauche/droite */
 }
@@ -45,11 +45,11 @@ body {
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
 nav {
     width: 100%;  /* Prendre toute la largeur */
-    padding: 30px;
+    padding: 50px;
     color: #2a4728;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 100%/*768px*/) {
   .header {
     text-align: center;
     padding: 20px 20px;
@@ -72,6 +72,11 @@ nav {
 hr {
     color: #2a4728;
 }
+
+h {
+    color: #2a4728;
+}
+
 h1 {
     color: #262626;
 }
@@ -79,7 +84,7 @@ h2 {
     color: #585858;
 }
 h3 {
-    color: #5dc449;
+    color: #31991d;
 }
 
 /*h4{
@@ -92,8 +97,8 @@ h3 {
 
 .site-nav {
   display: flex;
-  gap: 20px;
-  padding-left: 20px;
+  gap: 50px;
+  padding-left: 50px;
     color: #2a4728;
 }
 
