@@ -3,7 +3,7 @@ layout: default
 title: Accueil
 ---
 
-# [Contact](contact.md)  |  [Équipe - Team](Team.md)
+# [Contact](contact.md)  |  [Équipe / Team](Team.md)
 
 
 ## 🌱 Projet Ecoflore
