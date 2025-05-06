@@ -33,7 +33,7 @@ body {
 .main{
   max-width: 100%;
     width: 100%;
-  margin: 0 auto;         /* Centre le container */
+  margin: 30 auto;         /* Centre le container */
   padding: 50px 50px;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
@@ -41,13 +41,14 @@ body {
 nav {
     width: 100%;  /* Prendre toute la largeur */
     padding: 30px;
+    color: #2a4728;
 }
 
 @media screen and (max-width: 768px) {
   .header {
     text-align: center;
     padding: 20px 20px;
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 
