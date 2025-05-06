@@ -13,7 +13,7 @@ Une des meilleures méthodes de prévention est d’effectuer la plantation d’
 
 Au Québec, la plantation des berges est en grande partie effectuée par des bénévoles, donc la réhabilitation des berges est limitée par la performance individuelle. Chaque individu plante en moyenne 1000 plantes par jour, ce qui n’est pas suffisant pour couvrir l’énorme superficie des berges québécoises.
 
-Plusieurs emplacements demeurent donc sans couverture végétale et sans protection.  
+Plusieurs emplacements demeurent donc sans couverture végétale et sans protection.
 De nombreux projets de construction routière sont également effectués près des berges, créant le besoin de procéder à la replantation après les travaux.
 
 ---
@@ -24,7 +24,7 @@ One of the best preventive approaches is to plant specific vegetation in high-ri
 
 In Quebec, shoreline planting is mostly carried out by volunteers, so restoration efforts are limited by individual performance. Each person plants about 1,000 plants per day, which is not enough to cover the vast shoreline areas.
 
-As a result, many places remain unprotected and exposed.  
+As a result, many places remain unprotected and exposed.
 Numerous road construction projects near riverbanks also increase the need for post-construction replanting.
 
 
