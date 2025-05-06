@@ -10,7 +10,8 @@ title: Projet / Project
 ---
 
 ### Détails / Details
-![Notre prototype](images/image_Test.jpg)
+![image_Test](images/image_Test.jpg)
+
 Plus de détails à venir.
 --
 More details to come.
