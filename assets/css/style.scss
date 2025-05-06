@@ -9,20 +9,17 @@
     /*max-width: 100% !important;*/
     margin: 0;
     padding: 10px;
+    background-color: #f4f4f4;
 }
 
 /* Étendre le contenu de la div principale */
-.container {
+.container,
+.wrapper,
+.inner,
+.main{
   max-width: 100%;
   margin: 0;         /* Centre le container */
-  padding: 0;        /* Ajoute un peu d’espace à gauche/droite */
-}
-
-/* Modification de la taille des éléments de contenu */
-.main {
-    margin: 0px;
-    padding: 40px; /* Ajouter du padding en haut et en bas */
-    background-color: grey;
+  padding: 0 10px;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
 
