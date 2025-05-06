@@ -15,14 +15,26 @@ body {
 
 /* Étendre le contenu de la div principale */
 
-.container,
+.container{
+  max-width: 100%;
+    width: 100%;
+  margin: 0 auto;         /* Centre le container */
+  padding: 10 10;        /* Ajoute un peu d’espace à gauche/droite */
+}
+
 .wrapper,
-.inner,
+.inner{
+  max-width: 100%;
+    width: 100%;
+  margin: 0 auto;         /* Centre le container */
+  padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
+}
+
 .main{
   max-width: 100%;
     width: 100%;
-  margin: 50 auto;         /* Centre le container */
-  padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
+  margin: 0 auto;         /* Centre le container */
+  padding: 50px 50px;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
@@ -83,6 +95,6 @@ h3 {
 .site-main {
   max-width: 70%;       // ou 60%, selon ce que tu préfères
   margin: 0 auto;          // centre horizontalement
-  padding: 40px 20px;
+  padding: 40px 40px;
   text-align: left;
 }
