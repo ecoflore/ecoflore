@@ -28,18 +28,4 @@ In Quebec, shoreline planting is mostly carried out by volunteers, so restoratio
 As a result, many places remain unprotected and exposed.  
 Numerous road construction projects near riverbanks also increase the need for post-construction replanting.
 
----
-
-### Notre Équipe 
-#### Ingénierie Électrique / Electrical Engineering
-- Jerson Andrey Angel Martinez
-- Gabriel Nadeau
-
-#### Ingénierie Mécanique / Mechanical Engineering
-- Adélie Groleau
-- Alice Joncas
-- Daniel Philippot
-- Isaac Morin-Sanscartier
-- Jérémy Lavoie
-- Samuel Larouche
 
