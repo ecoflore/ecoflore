@@ -39,6 +39,18 @@ nav {
   }
 }
 
+@media (max-width: 768px) {
+  .site-main {
+    width: 95%;
+    padding: 20px;
+  }
+
+  .site-nav {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+}
+
 h0 {
     color: #2a4728;
 }
@@ -54,4 +66,23 @@ h3 {
 /* Déplacer le texte du titre à gauche */
 .site-title {
     text-align: left;
+}
+
+.site-nav {
+  display: flex;
+  gap: 20px;
+  padding-left: 20px;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: #2a4728;
+  font-weight: bold;
+}
+
+.site-main {
+  max-width: 70%;       // ou 60%, selon ce que tu préfères
+  margin: 0 auto;          // centre horizontalement
+  padding: 40px 20px;
+  text-align: left;
 }
