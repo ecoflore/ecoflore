@@ -10,6 +10,7 @@ body {
     margin: 0;
     padding: 10px;
     background-color: #f5f5f5;
+    overflow-x: hidden;
 }
 
 /* Étendre le contenu de la div principale */
@@ -20,28 +21,33 @@ body {
 .main{
   max-width: 100%;
     width: 100%;
-  margin: 30 auto;         /* Centre le container */
+  margin: 0 auto;         /* Centre le container */
   padding: 20px 20px;        /* Ajoute un peu d’espace à gauche/droite */
 }
 
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
 nav {
     width: 100%;  /* Prendre toute la largeur */
-    padding: 0px;
+    padding: 30px;
 }
 
 @media screen and (max-width: 768px) {
   .header {
     text-align: center;
-    padding: 15px 20px;
-    font-size: 1.5rem;
+    padding: 20px 20px;
+    font-size: 2rem;
   }
 }
 
-h1, h2, h3 {
+h1 {
+    color: #262626;
+}
+h2 {
+    color: #585858;
+}
+h3 {
     color: #5dc449;
 }
-
 /* Déplacer le texte du titre à gauche */
 .site-title {
     text-align: left;
