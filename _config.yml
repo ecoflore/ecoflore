@@ -9,6 +9,6 @@ sass:
 # Ajouter le lien vers le CSS personnalisé
 extra:
   head: |
-    <link rel="stylesheet" href="/assets/css/custom.css">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 lang: fr
 description: Projet Ecoflore – Replantation écologique des berges
