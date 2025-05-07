@@ -2,10 +2,7 @@
 layout: default
 title: Équipe-Team
 ---
-
 ## 🌱 Projet Ecoflore
-# [Accueil-Home](index.md)  |  [Projet-Project](projet.md)  |  [Contact](contact.md)  |  [Équipe-Team](Team.md)  |  [Commandites-Sponsorship](commandites.md)
-
 ---
 
 ##  Notre Équipe <br><br>
