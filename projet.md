@@ -5,10 +5,7 @@ title: Projet-Project
 ## 🌱 Projet Ecoflore
 ---
 
-### Détails / Details
-Voici une photo de notre prototype:
-![Prototype #1](images/197640-download-free-space-wallpaper-4k-3840x2160.jpg)
-
+###  Objectifs / Goals
 Plus de détails à venir.
 More details to come.
 
@@ -16,6 +13,12 @@ More details to come.
 Plus de détails à venir.
 More details to come.
 
-###  Objectifs / Objectives
+### Détails / Details
+Voici une photo de notre prototype:
+![Prototype #1](images/197640-download-free-space-wallpaper-4k-3840x2160.jpg)
+
 Plus de détails à venir.
 More details to come.
+
+
+
