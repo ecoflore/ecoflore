@@ -118,6 +118,17 @@ h3 {
     color: #2a4728;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-logo {
+  width: 80px;
+  height: auto;
+}
+
 /* ==== NAVIGATION RESPONSIVE ==== */
 .navbar {
   display: flex;
