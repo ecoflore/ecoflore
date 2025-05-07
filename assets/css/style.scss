@@ -118,3 +118,61 @@ h3 {
     color: #2a4728;
 }
 
+/* ==== NAVIGATION RESPONSIVE ==== */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px 20px;
+  background-color: #d7d7d7;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #2a4728;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links a {
+  color: #1a8505;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  color: #dc7d11;
+}
+
+/* Hamburger button caché par défaut */
+.toggle-button {
+  display: none;
+  font-size: 28px;
+  background: none;
+  border: none;
+  color: #2a4728;
+  cursor: pointer;
+}
+
+/* Menu responsive sur petit écran */
+@media (max-width: 768px) {
+  .toggle-button {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+}
