@@ -19,6 +19,7 @@
       <div class="inner">
         
         <nav class="navbar">
+		<img src="{{ '/images/logo1.png' | relative_url }}" alt="Logo" class="site-logo">
           <div class="logo">Ecoflore</div>
           <button class="toggle-button" onclick="toggleMenu()">☰</button>
           <div class="nav-links" id="navMenu">
@@ -31,7 +32,7 @@
         </nav>
 
         <header>
-		<img src="{{ '/images/logo1.png' | relative_url }}" alt="Logo" class="site-logo">
+		
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
