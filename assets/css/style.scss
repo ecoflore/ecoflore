@@ -16,6 +16,10 @@ body {
 a {
   color: #F5FFF0;              // gris foncé
   text-decoration: none;    // optionnel : supprime le soulignement
+    text-decoration: none;
+  font-weight: normal;
+    font-family: 'Aptos Narrow', sans-serif;
+    letter-spacing: 2px;
     /*font-size: 36px;*/
 }
 
@@ -160,6 +164,7 @@ header {
   text-decoration: none;
   font-weight: normal;
     font-family: 'Aptos Narrow', sans-serif;
+    letter-spacing: 2px;
 }
 
 .nav-links a:hover {
@@ -187,6 +192,7 @@ header {
     flex-direction: column;
     width: 100%;
     padding-top: 20px;
+    padding-left: 20px; 
   }
 
   .nav-links.active {
