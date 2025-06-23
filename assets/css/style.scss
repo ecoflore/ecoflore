@@ -4,69 +4,69 @@
 @import "{{ site.theme }}";
 
 /* Étendre le contenu sur toute la page */
-/*----body {
+body {
     width: 90%;
     max-width: 90% !important;
     margin: 0 auto;
     padding: 20px 20px;
     /*background-color: #d7d7d7;*/
-    /*----overflow-x: hidden;
+    overflow-x: hidden;
 }
 
 a {
   color: #B80303; /*F5FFF0;  */          // gris foncé
-  /*----text-decoration: none;    // optionnel : supprime le soulignement
+  text-decoration: none;    // optionnel : supprime le soulignement
     text-decoration: none;
   font-weight: normal;
     font-family: 'Aptos Narrow', sans-serif;
     letter-spacing: 2px;
     /*font-size: 36px;*/
-/*----}
+}
 
-/*----a:hover {
+a:hover {
   color: #dc7d11;              // couleur au survol (optionnel)
 }
 
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
-/*----nav {
+nav {
     width: 100%;  /* Prendre toute la largeur */
-    /*----padding: 0 auto;
+    padding: 0 auto;
     color: #02391E;
 }
 
 header {
     width: 100%;  /* Prendre toute la largeur */
-    /*----padding: 0 auto;
+    padding: 0 auto;
     color: #2a4728;
 }
 /* Étendre le contenu de la div principale */
 
-/*----.container{
+.container{
   max-width: 100%;
     width: 100%;
   margin: 0 auto;         /* Centre le container */
-  /*----padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-/*----}
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+}
 
 .wrapper{
   max-width: 100%;
   width: 100%;
   margin: 0 auto;         /* Centre le container */
- /*---- padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-/*----}
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+}
 .inner{
   max-width: 100%;
   width: 100%;
   margin: 0 auto;         /* Centre le container */
- /*---- padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-/*----}
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+}
 
 .main{
   max-width: 75%;
   width: 75%;
   margin: 0 auto;         /* Centre le container */
-/*----  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-/*----}
+  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+}
 
 
 @media screen and (max-width: 768px) {
@@ -89,7 +89,7 @@ header {
   }
 }*/
 
-/*----hr {
+hr {
     color: #2a4728;
 }
 
@@ -111,7 +111,7 @@ h3 {
     color: #2a4728;
 }*/
 /* Déplacer le texte du titre à gauche */
-/*----.site-title {
+.site-title {
     text-align: left;
 }
 
@@ -137,9 +137,9 @@ header {
     display: flex;
     align-items: center;
     gap: 20px; /* espace entre le logo et le texte */
-/*----}
+}
 /* ==== NAVIGATION RESPONSIVE ==== */
-/*----.navbar {
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -172,7 +172,7 @@ header {
 }
 
 /* Hamburger button caché par défaut */
-/*----.toggle-button {
+.toggle-button {
   display: none;
   font-size: 28px;
   background: none;
@@ -182,7 +182,7 @@ header {
 }
 
 /* Menu responsive sur petit écran */
-/*----@media (max-width: 768px) {
+@media (max-width: 768px) {
   .toggle-button {
     display: block;
   }
@@ -199,176 +199,4 @@ header {
     display: flex;
   }
 }
-*/
-/*---- NOUVELLE VERSION CODE ÉPURÉE:*/
----
----
 
-@import "{{ site.theme }}";
-
-/* Étendre le contenu sur toute la page */
-body {
-  width: 90%;
-  max-width: 90% !important;
-  margin: 0 auto;
-  padding: 20px;
-  overflow-x: hidden;
-  // background-color: #d7d7d7; // optionnel
-}
-
-/* Styles des liens */
-a {
-  color: #B80303; // rouge foncé
-  text-decoration: none;
-  font-weight: normal;
-  font-family: 'Aptos Narrow', sans-serif;
-  letter-spacing: 2px;
-  // font-size: 36px; // désactivé
-}
-
-a:hover {
-  color: #dc7d11; // couleur au survol
-}
-
-/* Navigation générale */
-nav {
-  width: 100%;
-  padding: 0 auto;
-  color: #02391E;
-}
-
-/* En-tête principal */
-header {
-  width: 100%;
-  padding: 0 auto;
-  color: #2a4728;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/* Titre aligné à gauche */
-.site-title {
-  text-align: left;
-}
-
-/* Conteneurs principaux */
-.container,
-.wrapper,
-.inner {
-  max-width: 100%;
-  width: 100%;
-  margin: 0 auto;
-  padding: 0;
-}
-
-.main {
-  max-width: 75%;
-  width: 75%;
-  margin: 0 auto;
-  padding: 0;
-}
-
-/* Styles de section */
-hr {
-  color: #2a4728;
-}
-
-h {
-  color: #2a4728;
-}
-
-h1 {
-  color: #262626;
-}
-
-h2 {
-  color: #585858;
-}
-
-h3 {
-  color: #31991d;
-}
-
-/* Logo */
-.site-logo {
-  width: 300px;
-  height: auto;
-}
-
-/* Conteneur du logo + nom */
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-/* Barre de navigation */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  padding: 20px;
-  background-color: #02391E;
-}
-
-/* Texte du logo */
-.logo-text {
-  font-size: 3rem;
-  font-weight: bold;
-  color: #F5FFF0;
-}
-
-/* Liens de navigation */
-.nav-links {
-  display: flex;
-  gap: 40px;
-}
-
-.nav-links a {
-  color: #F5FFF0;
-  text-decoration: none;
-  font-weight: normal;
-  font-family: 'Aptos Narrow', sans-serif;
-  letter-spacing: 2px;
-}
-
-.nav-links a:hover {
-  color: #dc7d11;
-}
-
-/* Bouton menu mobile */
-.toggle-button {
-  display: none;
-  font-size: 28px;
-  background: none;
-  border: none;
-  color: #F5FFF0;
-  cursor: pointer;
-}
-
-/* Responsive : affichage mobile */
-@media (max-width: 768px) {
-  .toggle-button {
-    display: block;
-  }
-
-  .nav-links {
-    display: none;
-    flex-direction: column;
-    width: 100%;
-    padding-top: 20px;
-    padding-left: 20px; // décale légèrement à droite
-  }
-
-  .nav-links.active {
-    display: flex;
-  }
-
-  .header {
-    text-align: center;
-    padding: 20px;
-    font-size: 1.5rem;
-  }
-}
