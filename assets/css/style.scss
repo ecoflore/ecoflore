@@ -1,72 +1,72 @@
----
+/*---
 ---
 
 @import "{{ site.theme }}";
 
 /* Étendre le contenu sur toute la page */
-body {
+/*----body {
     width: 90%;
     max-width: 90% !important;
     margin: 0 auto;
     padding: 20px 20px;
     /*background-color: #d7d7d7;*/
-    overflow-x: hidden;
+    /*----overflow-x: hidden;
 }
 
 a {
   color: #B80303; /*F5FFF0;  */          // gris foncé
-  text-decoration: none;    // optionnel : supprime le soulignement
+  /*----text-decoration: none;    // optionnel : supprime le soulignement
     text-decoration: none;
   font-weight: normal;
     font-family: 'Aptos Narrow', sans-serif;
     letter-spacing: 2px;
     /*font-size: 36px;*/
-}
+/*----}
 
-a:hover {
+/*----a:hover {
   color: #dc7d11;              // couleur au survol (optionnel)
 }
 
 /* Ajuster la largeur de la barre de navigation (si nécessaire) */
-nav {
+/*----nav {
     width: 100%;  /* Prendre toute la largeur */
-    padding: 0 auto;
+    /*----padding: 0 auto;
     color: #02391E;
 }
 
 header {
     width: 100%;  /* Prendre toute la largeur */
-    padding: 0 auto;
+    /*----padding: 0 auto;
     color: #2a4728;
 }
 /* Étendre le contenu de la div principale */
 
-.container{
+/*----.container{
   max-width: 100%;
     width: 100%;
   margin: 0 auto;         /* Centre le container */
-  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-}
+  /*----padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+/*----}
 
 .wrapper{
   max-width: 100%;
   width: 100%;
   margin: 0 auto;         /* Centre le container */
-  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-}
+ /*---- padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+/*----}
 .inner{
   max-width: 100%;
   width: 100%;
   margin: 0 auto;         /* Centre le container */
-  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-}
+ /*---- padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+/*----}
 
 .main{
   max-width: 75%;
   width: 75%;
   margin: 0 auto;         /* Centre le container */
-  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
-}
+/*----  padding: 0 0;        /* Ajoute un peu d’espace à gauche/droite */
+/*----}
 
 
 @media screen and (max-width: 768px) {
@@ -89,7 +89,7 @@ header {
   }
 }*/
 
-hr {
+/*----hr {
     color: #2a4728;
 }
 
@@ -111,7 +111,7 @@ h3 {
     color: #2a4728;
 }*/
 /* Déplacer le texte du titre à gauche */
-.site-title {
+/*----.site-title {
     text-align: left;
 }
 
@@ -137,9 +137,9 @@ header {
     display: flex;
     align-items: center;
     gap: 20px; /* espace entre le logo et le texte */
-}
+/*----}
 /* ==== NAVIGATION RESPONSIVE ==== */
-.navbar {
+/*----.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -172,7 +172,7 @@ header {
 }
 
 /* Hamburger button caché par défaut */
-.toggle-button {
+/*----.toggle-button {
   display: none;
   font-size: 28px;
   background: none;
@@ -182,7 +182,7 @@ header {
 }
 
 /* Menu responsive sur petit écran */
-@media (max-width: 768px) {
+/*----@media (max-width: 768px) {
   .toggle-button {
     display: block;
   }
@@ -197,5 +197,166 @@ header {
 
   .nav-links.active {
     display: flex;
+  }
+}
+*/
+/*---- NOUVELLE VERSION CODE ÉPURÉE:*/
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* === GLOBAL === */
+body {
+  width: 90%;
+  max-width: 90% !important;
+  margin: 0 auto;
+  padding: 20px;
+  overflow-x: hidden;
+  // background-color: #d7d7d7; // optionnel
+}
+
+/* === LIENS === */
+a,
+.nav-links a {
+  color: #B80303;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: 'Aptos Narrow', sans-serif;
+  letter-spacing: 2px;
+}
+
+a:hover,
+.nav-links a:hover {
+  color: #dc7d11;
+}
+
+/* === TITRES === */
+h, h1, h2, h3 {
+  font-family: 'Aptos Narrow', sans-serif;
+}
+
+h {
+  color: #2a4728;
+}
+
+h1 {
+  color: #262626;
+}
+
+h2 {
+  color: #585858;
+}
+
+h3 {
+  color: #31991d;
+}
+
+/* === SEPARATEUR === */
+hr {
+  color: #2a4728;
+}
+
+/* === HEADER GENERAL === */
+header {
+  width: 100%;
+  padding: 0;
+  color: #2a4728;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* === TITRE DU SITE === */
+.site-title {
+  text-align: left;
+}
+
+/* === LOGO === */
+.site-logo {
+  width: 300px;
+  height: auto;
+}
+
+/* === CONTAINER PRINCIPAL === */
+.container,
+.wrapper,
+.inner {
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* === SECTION PRINCIPALE === */
+.main {
+  max-width: 75%;
+  width: 75%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* === NAVIGATION === */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  background-color: #02391E;
+}
+
+/* LOGO + TEXTE CÔTE À CÔTE */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo-text {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #F5FFF0;
+}
+
+/* LIENS NAVIGATION */
+.nav-links {
+  display: flex;
+  gap: 40px;
+}
+
+/* MENU BURGER – CACHÉ PAR DÉFAUT */
+.toggle-button {
+  display: none;
+  font-size: 28px;
+  background: none;
+  border: none;
+  color: #F5FFF0;
+  cursor: pointer;
+}
+
+/* === RESPONSIVE (mobile) === */
+@media (max-width: 768px) {
+  .toggle-button {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .header {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
   }
 }
