@@ -27,7 +27,7 @@
           <button class="toggle-button" onclick="toggleMenu()">☰</button>
 
           <div class="nav-links" id="navMenu">
-	    {% assign current_page = page.url | remove_first: site.baseurl %}
+	    {% assign current_page = page.url | remove_first: site.baseurl | remove_first: '/fr' | remove_first: '/en' %}}
             {% if page.lang == 'en' %}
               <a href="{{ '/en/home.html' | relative_url }}">Home</a>
               <a href="{{ '/en/project.html' | relative_url }}">Project</a>
