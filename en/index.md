@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+lang: en
 ---
 
 ## 🌱 Ecoflore Project
