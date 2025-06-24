@@ -14,7 +14,7 @@ Bienvenue sur le site officiel de **ECOFLORE**, un projet universitaire se déro
 
 Vous pouvez naviguer dans le site en choisissant votre langue préférée ci-dessous.<br><br>
 
-➡️ [Accéder au site en français](fr/accueil.html)
+➡️ [Accéder au site en français](fr/accueil.html) {:class="lang-switch"}
 
 ---
 
@@ -27,4 +27,4 @@ Welcome to the official website of **ECOFLORE**, a student-led project from Univ
 
 Please choose your preferred language below to explore the site.<br><br>
 
-➡️ [Visit the site in English](en/home.html)
+➡️ [Visit the site in English](en/home.html) {:class="lang-switch"}
