@@ -28,15 +28,6 @@ a:hover,
   color: #001CC4;
 }
 
-a[href^="mailto:"] {
-  color: #02391E;     // bleu ou ce que tu veux
-  font-weight: bold;
-  text-decoration: underline;
-}
-
-a[href^="mailto:"]:hover {
-  color: #001CC4;
-}
 
 /* === TITRES === */
 h, h1, h2, h3 {
