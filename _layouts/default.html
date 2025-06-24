@@ -1,4 +1,93 @@
 <!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    {% seo %}
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+        
+        <nav class="navbar">
+          <div class="brand">
+            <img src="{{ '/images/ecoflore_rectangle_transparent_blanc.png' | relative_url }}" alt="Logo" class="site-logo">
+          </div>
+
+          <button class="toggle-button" onclick="toggleMenu()">☰</button>
+
+          <div class="nav-links" id="navMenu">
+            {% if page.lang == 'en' %}
+              <a href="{{ '/en/index.html' | relative_url }}">Home</a>
+              <a href="{{ '/en/project.html' | relative_url }}">Project</a>
+              <a href="{{ '/en/team.html' | relative_url }}">Team</a>
+              <a href="{{ '/en/sponsorship.html' | relative_url }}">Sponsorship</a>
+              <a href="{{ '/en/contact.html' | relative_url }}">Contact</a>
+              <a href="{{ '/fr/' | relative_url }}">🇫🇷 FR</a>
+            {% else %}
+              <a href="{{ '/fr/index.html' | relative_url }}">Accueil</a>
+              <a href="{{ '/fr/projet.html' | relative_url }}">Projet</a>
+              <a href="{{ '/fr/equipe.html' | relative_url }}">Équipe</a>
+              <a href="{{ '/fr/commandites.html' | relative_url }}">Commandites</a>
+              <a href="{{ '/fr/contact.html' | relative_url }}">Contact</a>
+              <a href="{{ '/en/' | relative_url }}">🇬🇧 EN</a>
+            {% endif %}
+          </div>
+        </nav>
+
+        <header>
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        </header>
+
+        <section id="downloads" class="clearfix">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
+            <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+          {% endif %}
+          {% if site.github.public %}
+            {% if site.github.is_project_page %}
+              <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
+            {% else %}
+              <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
+            {% endif %}
+          {% endif %}
+        </section>
+
+        <hr>
+
+        <section id="main_content">
+          {{ content }}
+        </section>
+
+        <footer>
+          {% if site.github.is_project_page %}
+            {{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+          {% endif %}
+          Cette page a été générée par <a href="https://pages.github.com">GitHub Pages</a>.
+        </footer>
+      </div>
+    </div>
+
+    <script>
+      function toggleMenu() {
+        const nav = document.getElementById("navMenu");
+        nav.classList.toggle("active");
+      }
+    </script>
+  </body>
+</html>
+
+<!-- <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -10,7 +99,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-{% seo %}
+<!--  {% seo %}
     {% include head-custom.html %}
   </head>
 
@@ -23,7 +112,7 @@
 	    <img src="{{ '/images/ecoflore_rectangle_transparent_blanc.png' | relative_url }}" alt="Logo" class="site-logo">
 	    <!--<img src="{{ '/images/ecoflore_rectangle_couleur_inverse.png' | relative_url }}" alt="Logo" class="site-logo"> -->
 	    <!-- <div class="logo-text">Ecoflore</div> -->
-	  </div>
+<!-- 	  </div>
           <button class="toggle-button" onclick="toggleMenu()">☰</button>
           <div class="nav-links" id="navMenu">
             	<a href="{{ '/index.html' | relative_url }}">Accueil-Home</a>
@@ -74,3 +163,4 @@
     </script>
   </body>
 </html>
+-->
