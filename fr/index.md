@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accueil
+lang: fr
 ---
 ## 🌱 Pourquoi le projet ÉCOFLORE?
 
