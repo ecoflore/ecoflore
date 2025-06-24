@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+lang: en
 ---
 ## ✉️ Contact Us<br><br>
  
