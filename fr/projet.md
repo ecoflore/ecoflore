@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projet
+lang: fr
 ---
 ### Objectifs
 
