@@ -1,0 +1,39 @@
+---
+layout: default
+title: Project
+---
+
+## 🌱 Ecoflore Project
+
+---
+
+### Goals
+
+#### A sustainable, eco-friendly and innovative solution
+
+This is the idea behind **Écoflore**.  
+Our university team is developing an **electrically-assisted planting vehicle**, specifically designed to:
+
+- operate in hard-to-reach or sloped areas,
+- accelerate planting efforts while reducing physical workload,
+- preserve fragile ecosystems through eco-friendly design.
+
+Our mission is clear: **to develop a versatile, local, and sustainable solution** to help communities, cities, and environmental organizations better protect our natural environments.
+
+---
+
+### Technology
+
+More details to come.
+
+---
+
+### Details
+
+Here is a photo of our prototype:  
+![Prototype #1](../images/197640-download-free-space-wallpaper-4k-3840x2160.jpg)
+
+More details to come.
+
+<br><br>
+ [🇫🇷 Version française](/projet.html)
