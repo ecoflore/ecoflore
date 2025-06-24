@@ -15,4 +15,4 @@ Thank you for your interest in our initiative!<br><br>
 
 📧 **Email**:  [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com)<br><br>
 
-[🇫🇷 Version française](/fr/contact.md)
+[🇫🇷 Version française](/fr/contact.html)
