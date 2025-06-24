@@ -32,5 +32,5 @@ Voici une photo de notre prototype :
 Plus de détails à venir.
 
 <br><br>
-[🇬🇧 English version](/en/project.md)
+[🇬🇧 English version](/en/project.html)
 
