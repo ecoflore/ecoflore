@@ -6,7 +6,7 @@ title: Project
 
 #### A sustainable, eco-friendly and innovative solution
 
-This is the idea behind **Écoflore**.  
+This is the idea behind **ECOFLORE**.  
 Our university team is developing an **electrically-assisted planting vehicle**, specifically designed to:
 
 - operate in hard-to-reach or sloped areas,
