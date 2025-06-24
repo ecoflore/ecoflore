@@ -2,9 +2,6 @@
 layout: default
 title: Contact Us
 ---
-
-## 🌱 Ecoflore Project
-
 ## ✉️ Contact Us<br><br>
 
 Do you have a question, a suggestion, or want to know more about our project?<br>
@@ -17,4 +14,4 @@ Thank you for your interest in our initiative!<br><br>
 
 📧 **Email**:  [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com)<br><br>
 
-👉 [🇫🇷 Version française](/fr/contact.html)
+[🇫🇷 Version française](/fr/contact.md)
