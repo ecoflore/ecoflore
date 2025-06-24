@@ -1,5 +1,21 @@
 ---
 layout: default
+title: Accueil
+---
+
+## 🌱 Pourquoi le projet ÉCOFLORE?
+
+Que ce soit au niveau des cours d'eau, des milieux côtiers ou des milieux créés par l'humain, l’érosion des berges est un enjeu majeur au Québec et ailleurs dans le monde. La replantation de certaines espèces spécifiques sur les zones à risque afin de stabiliser les sols par les systèmes racinaires est l’une des méthodes les plus efficaces pour limiter ce phénomène, mais les approches actuelles sont manuelles, lentes, exigeantes et peu efficientes car la machinerie agricole disponible à ce jour n’est ni adaptée à la diversité des terrains rencontrés, ni toujours conçue dans une perspective de développement durable.
+
+C'est ici qu'intervient **ÉCOFLORE**.  
+Notre équipe se distingue en proposant une solution polyvalente et respectueuse de l’environnement, capable d’accélérer et d’optimiser les efforts de replantation sur des sites sensibles et difficiles d’accès.
+
+<br><br>
+👉 [🇬🇧 English version](en/index.html)
+
+<!--
+---
+layout: default
 title: Accueil-Home
 ---
 ## 🌱 Projet Ecoflore
@@ -25,5 +41,5 @@ In Quebec, shoreline planting is mostly carried out by volunteers, so restoratio
 
 As a result, many places remain unprotected and exposed.
 Numerous road construction projects near riverbanks also increase the need for post-construction replanting.
-
+-->
 
