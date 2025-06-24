@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Project
+lang: en
 ---
 ### Goals
 
