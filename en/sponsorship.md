@@ -20,4 +20,4 @@ We are currently looking for sponsors interested in supporting us either:<br>
 📩 **Interested in partnering with us?**<br>
 Contact us at [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) to receive our sponsorship package.<br><br>
 
-[🇫🇷 Version française](../fr/commandites.html)
+[🇫🇷 Version française](../fr/commandites.html){:class="lang-switch"}
