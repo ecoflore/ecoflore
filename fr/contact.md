@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+lang: fr
 ---
 ## ✉️ Nous joindre<br><br>
 
@@ -14,7 +15,7 @@ Merci de l’intérêt que vous portez à notre initiative !<br><br>
 
 📧 **Courriel**:  [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com)<br><br>
 
-👉 [🇬🇧 English version](/en/contact.md)
+[🇬🇧 English version](/en/contact.md)
 
 <!--
 ---
