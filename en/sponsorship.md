@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sponsorship
+lang: en
 ---
 ### Support a project with real environmental impact<br>
 
