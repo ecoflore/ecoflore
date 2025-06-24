@@ -25,7 +25,7 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
 - Jérémy Lavoie
 - Samuel Larouche
 
-[🇬🇧 English version](/en/team.md)
+[🇬🇧 English version](/en/team.html)
 <!---
 ---
 layout: default
