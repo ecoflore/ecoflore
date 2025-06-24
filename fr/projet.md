@@ -2,12 +2,11 @@
 layout: default
 title: Projet
 ---
-
 ### Objectifs
 
 #### Une solution durable, écoresponsable et innovante
 
-C’est dans cette optique qu’est né **Écoflore**.  
+C’est dans cette optique qu’est né **ECOFLORE**.  
 Notre équipe universitaire conçoit un **véhicule de plantation assisté électriquement**, pensé spécifiquement pour :
 
 - intervenir dans des zones à accès restreint ou en pente,
@@ -32,5 +31,5 @@ Voici une photo de notre prototype :
 Plus de détails à venir.
 
 <br><br>
-[🇬🇧 English version](en/project.html)
+[🇬🇧 English version](/en/project.MD)
 
