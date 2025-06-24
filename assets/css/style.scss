@@ -28,6 +28,7 @@ a:hover,
   color: #001CC4;
 }
 
+/* Lien pour courriel */
 a[href^="mailto:"] {
   color: #02391E; /* couleur de ton choix */
   text-decoration: underline; /* facultatif */
@@ -36,6 +37,16 @@ a[href^="mailto:"] {
 
 a[href^="mailto:"]:hover {
   color: #001CC4; /* couleur au survol */
+}
+
+/* Lien pour changer de langue */
+.lang-switch {
+  color: #02391E; /* Choisis la couleur de ton choix */
+  text-decoration: none;
+}
+
+.lang-switch:hover {
+  color: #001CC4; /* Choisis la couleur au survol */
 }
 
 /* === TITRES === */
