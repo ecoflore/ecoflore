@@ -156,46 +156,18 @@ header {
     font-size: 1.5rem;
   }
 }
-✅ Explication des corrections :
-❌ Doublons supprimés pour text-decoration, font-family, etc.
 
-❌ Enlèvement des effets potentiels de texte doublé ou flou (souvent causés par text-shadow, que tu n'avais pas, mais j’ai vérifié que rien n'en générait).
-
-✅ Groupement des règles communes (a, .nav-links a, a:hover, etc.)
-
-✅ Rendu plus propre et cohérent
-
-Souhaites-tu que je t’aide à intégrer une Google Font, ou que je vérifie les effets sur un navigateur mobile précis ?
-
-
-
-
-
-
-
-
-Vous avez dit :
-Tu as changé la forme et l'apparence du site. Je ne veux pas cela, je veux seulement que tu corrige et rende le code plus épuré dans que celaa change la forme et l'apparence du site
-
-
-ChatGPT a dit :
-Merci pour la précision ! 🙏 Voici ton fichier style.scss corrigé et épuré sans changer l'apparence de ton site. Je me suis assuré de :
-
-✅ Conserver exactement les mêmes styles visuels
-✅ Éliminer les doublons ou les lignes inutiles
-✅ Unifier les commentaires et la structure
-✅ Prévenir les effets de texte doublé ou flouté
-
-✅ Version corrigée de ton style.scss (même apparence garantie) :
-scss
-Copier
-Modifier
+/*
 ---
+
 ---
 
 @import "{{ site.theme }}";
 
 /* Étendre le contenu sur toute la page */
+/*
+---
+
 body {
   width: 90%;
   max-width: 90% !important;
@@ -206,6 +178,9 @@ body {
 }
 
 /* Styles des liens */
+/*
+---
+
 a {
   color: #B80303; // rouge foncé
   text-decoration: none;
@@ -220,6 +195,9 @@ a:hover {
 }
 
 /* Navigation générale */
+/*
+---
+
 nav {
   width: 100%;
   padding: 0 auto;
@@ -227,6 +205,9 @@ nav {
 }
 
 /* En-tête principal */
+/*
+---
+
 header {
   width: 100%;
   padding: 0 auto;
@@ -237,11 +218,17 @@ header {
 }
 
 /* Titre aligné à gauche */
+/*
+---
+
 .site-title {
   text-align: left;
 }
 
 /* Conteneurs principaux */
+/*
+---
+
 .container,
 .wrapper,
 .inner {
@@ -259,6 +246,9 @@ header {
 }
 
 /* Styles de section */
+/*
+---
+
 hr {
   color: #2a4728;
 }
@@ -280,12 +270,18 @@ h3 {
 }
 
 /* Logo */
+/*
+---
+
 .site-logo {
   width: 300px;
   height: auto;
 }
 
 /* Conteneur du logo + nom */
+/*
+---
+
 .brand {
   display: flex;
   align-items: center;
@@ -293,6 +289,9 @@ h3 {
 }
 
 /* Barre de navigation */
+/*
+---
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -303,6 +302,9 @@ h3 {
 }
 
 /* Texte du logo */
+/*
+---
+
 .logo-text {
   font-size: 3rem;
   font-weight: bold;
@@ -310,6 +312,9 @@ h3 {
 }
 
 /* Liens de navigation */
+/*
+---
+
 .nav-links {
   display: flex;
   gap: 40px;
@@ -328,6 +333,9 @@ h3 {
 }
 
 /* Bouton menu mobile */
+/*
+---
+
 .toggle-button {
   display: none;
   font-size: 28px;
@@ -338,6 +346,9 @@ h3 {
 }
 
 /* Responsive : affichage mobile */
+/*
+---
+
 @media (max-width: 768px) {
   .toggle-button {
     display: block;
