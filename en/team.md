@@ -3,7 +3,6 @@ layout: default
 title: Team
 lang: en
 ---
-
 ## Our Team <br><br>
 
 We are a team of 8 engineering students from the Université de Sherbrooke.<br>
