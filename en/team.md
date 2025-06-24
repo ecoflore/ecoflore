@@ -26,4 +26,4 @@ Together, we are committed to carrying this initiative through to completion by 
 - Jérémy Lavoie
 - Samuel Larouche
 
-[🇫🇷 Version française](/fr/equipe.html)
+[🇫🇷 Version française](/fr/equipe.md)
