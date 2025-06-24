@@ -3,7 +3,6 @@ layout: default
 title: Équipe
 lang: fr
 ---
-
 ## Notre Équipe <br><br>
 
 Nous sommes une équipe de 8 étudiants en génie à l’Université de Sherbrooke.<br>
@@ -26,7 +25,7 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
 - Jérémy Lavoie
 - Samuel Larouche
 
-[EN English version](/en/team.html)
+[🇬🇧 English version](/en/team.md)
 <!---
 ---
 layout: default
