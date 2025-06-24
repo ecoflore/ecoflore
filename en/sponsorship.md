@@ -2,7 +2,6 @@
 layout: default
 title: Sponsorship
 ---
-
 ### Support a project with real environmental impact<br>
 
 Our student team is developing an innovative project to replant riverbanks and roadside shoulders, often affected by erosion or human activity.<br>
@@ -20,4 +19,4 @@ We are currently looking for sponsors interested in supporting us either:<br>
 📩 **Interested in partnering with us?**<br>
 Contact us at [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) to receive our sponsorship package.<br><br>
 
-[🇫🇷 Version française](/fr/commandites.html)
+[🇫🇷 Version française](/fr/commandites.md)
