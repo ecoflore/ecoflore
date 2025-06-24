@@ -18,6 +18,7 @@
     <div id="container">
       <div class="inner">
         
+        <!-- Navigation bar with logo and links -->
         <nav class="navbar">
           <div class="brand">
             <img src="{{ '/images/ecoflore_rectangle_transparent_blanc.png' | relative_url }}" alt="Logo" class="site-logo">
@@ -44,11 +45,14 @@
           </div>
         </nav>
 
+        <!-- Page title and subtitle -->
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
 
+        <!-- Download links (optional GitHub project tools) -->
+        {% if site.show_downloads or site.github.public %}
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
@@ -62,19 +66,23 @@
             {% endif %}
           {% endif %}
         </section>
+        {% endif %}
 
         <hr>
 
+        <!-- Main content -->
         <section id="main_content">
           {{ content }}
         </section>
 
+        <!-- Footer -->
         <footer>
           {% if site.github.is_project_page %}
             {{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
           {% endif %}
           Cette page a été générée par <a href="https://pages.github.com">GitHub Pages</a>.
         </footer>
+
       </div>
     </div>
 
@@ -86,6 +94,9 @@
     </script>
   </body>
 </html>
+
+
+
 
 <!-- <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
