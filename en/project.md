@@ -2,11 +2,6 @@
 layout: default
 title: Project
 ---
-
-## 🌱 Ecoflore Project
-
----
-
 ### Goals
 
 #### A sustainable, eco-friendly and innovative solution
@@ -36,4 +31,4 @@ Here is a photo of our prototype:
 More details to come.
 
 <br><br>
- [🇫🇷 Version française](/projet.html)
+ [🇫🇷 Version française](/fr/projet.md)
