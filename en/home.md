@@ -15,4 +15,4 @@ This is where **ECOFLORE** comes in.
 Our team stands out by offering a **versatile and environmentally-friendly** solution, capable of accelerating and optimizing replanting efforts in sensitive and hard-to-access areas.
 
 <br><br>
-[🇫🇷 Version française](/fr/accueil.md)
+[🇫🇷 Version française](/fr/accueil.html)
