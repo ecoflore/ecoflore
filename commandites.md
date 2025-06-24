@@ -21,7 +21,7 @@ Nous sommes à la recherche de partenaires qui souhaitent nous appuyer soit :<br
 - Renforcez votre image en tant qu’entreprise engagée dans la transition écologique.<br><br>
 
 📩 **Intéressé à collaborer ?**<br>
-Écrivez-nous dès maintenant à [jerson.angel.ecoflore@outlook.com](mailto:jerson.angel.ecoflore@outlook.com) pour recevoir notre dossier de partenariat.<br>
+Écrivez-nous dès maintenant à [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) pour recevoir notre dossier de partenariat.<br>
 
 ---
 
@@ -41,4 +41,4 @@ We are currently looking for sponsors interested in supporting us either:<br>
 - Strengthen your image as a company committed to sustainable innovation.<br><br>
 
 📩 **Interested in partnering with us?**<br>
-Contact us at [jerson.angel.ecoflore@outlook.com](mailto:jerson.angel.ecoflore@outlook.com) to receive our sponsorship package.<br>
+Contact us at [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) to receive our sponsorship package.<br>
