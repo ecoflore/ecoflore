@@ -3,8 +3,6 @@ layout: default
 title: Commandites
 ---
 
-## 🌱 Projet Ecoflore
-
 ### Soutenez un projet à fort impact environnemental<br>
 
 Notre équipe étudiante développe un projet innovant visant à reverdir les berges fluviales et les accotements routiers, souvent dégradés par l’érosion ou les activités humaines.<br>
@@ -22,6 +20,6 @@ Nous sommes à la recherche de partenaires qui souhaitent nous appuyer soit :<br
 📩 **Intéressé à collaborer ?**<br>
 Écrivez-nous dès maintenant à [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) pour recevoir notre dossier de partenariat.<br><br>
 
-[🇬🇧 English version](en/sponsorship.html)
+[EN English version](/en/sponsorship.html)
 
 
