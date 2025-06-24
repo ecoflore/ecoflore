@@ -53,7 +53,7 @@
         </header>
 
         <!-- Download links (optional GitHub project tools) -->
-        {% if site.show_downloads or site.github.public %}
+        <!--{% if site.show_downloads or site.github.public %}-->
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
@@ -67,7 +67,7 @@
             {% endif %}
           {% endif %}
         </section>
-        {% endif %}
+        <!--{% endif %}-->
 
         <hr>
 
@@ -79,7 +79,8 @@
         <!-- Footer -->
         <footer>
           {% if site.github.is_project_page %}
-            {{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+            <!--{{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br> -->
+		{{ site.title | default: site.github.repository_name }} est maintenu par l'équipe ECOFLORE<br>
           {% endif %}
           <!--Cette page a été générée par <a href="https://pages.github.com">GitHub Pages</a>.-->
 		Cette page a été générée par GitHub Pages.
