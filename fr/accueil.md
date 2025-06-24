@@ -3,7 +3,7 @@ layout: default
 title: Accueil
 lang: fr
 ---
-## 🌱 Pourquoi le projet ÉCOFLORE?
+## 🌱 Pourquoi le projet ECOFLORE?
 
 Que ce soit au niveau des cours d'eau, des milieux côtiers ou des milieux créés par l'humain, l’érosion des berges est un enjeu majeur au Québec et ailleurs dans le monde. La dégradation des sols met en péril la biodiversité, la stabilité des écosystèmes et l’infrastructure environnante.
 
