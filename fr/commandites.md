@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Commandites
+lang: fr
 ---
 ### Soutenez un projet à fort impact environnemental<br>
 
