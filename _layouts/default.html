@@ -27,11 +27,28 @@
  	  </div>
           <button class="toggle-button" onclick="toggleMenu()">☰</button>
           <div class="nav-links" id="navMenu">
-            	<a href="{{ '/fr/index.html' | relative_url }}">Accueil-Home</a>
+		{% if page.lang == 'en' %}
+	              <a href="{{ '/en/home.html' | relative_url }}">Home</a>
+	              <a href="{{ '/en/project.html' | relative_url }}">Project</a>
+	              <a href="{{ '/en/team.html' | relative_url }}">Team</a>
+	              <a href="{{ '/en/sponsorship.html' | relative_url }}">Sponsorship</a>
+	              <a href="{{ '/en/contact.html' | relative_url }}">Contact</a>
+	              <a href="{{ '/fr/accueil.html' | relative_url }}">🇫🇷 FR</a>
+           	 {% else %}
+	              <a href="{{ '/fr/accueil.html' | relative_url }}">Accueil</a>
+	              <a href="{{ '/fr/projet.html' | relative_url }}">Projet</a>
+	              <a href="{{ '/fr/equipe.html' | relative_url }}">Équipe</a>
+	              <a href="{{ '/fr/commandites.html' | relative_url }}">Commandites</a>
+	              <a href="{{ '/fr/contact.html' | relative_url }}">Contact</a>
+	              <a href="{{ '/en/home.html' | relative_url }}">🇬🇧 EN</a>
+           	 {% endif %}
+            	<!--
+		<a href="{{ '/fr/index.html' | relative_url }}">Accueil-Home</a>
 		<a href="{{ '/fr/projet.html' | relative_url }}">Projet-Project</a>
 		<a href="{{ '/fr/Team.html' | relative_url }}">Équipe-Team</a>
 		<a href="{{ '/fr/commandites.html' | relative_url }}">Commandites-Sponsorship</a>
 		<a href="{{ '/fr/contact.html' | relative_url }}">Contact</a>
+		-->
           </div>
         </nav>
 
