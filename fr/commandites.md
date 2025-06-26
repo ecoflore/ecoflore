@@ -5,7 +5,7 @@ lang: fr
 ---
 ### Soutenez un projet à fort impact environnemental<br>
 
-Notre équipe étudiante développe un projet innovant visant à reverdir les berges fluviales et les accotements routiers, souvent dégradés par l’érosion ou les activités humaines.<br>
+Notre équipe étudiante développe un projet innovant visant à replanter les berges fluviales et les accotements routiers, souvent dégradés par l’érosion ou les activités humaines.<br>
 En soutenant notre initiative, vous participez à un effort concret de revalorisation écologique, tout en gagnant en visibilité auprès d’un public engagé et soucieux de l’environnement.<br><br>
 
 Nous sommes à la recherche de partenaires qui souhaitent nous appuyer soit :<br>
