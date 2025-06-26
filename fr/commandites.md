@@ -20,6 +20,6 @@ Nous sommes à la recherche de partenaires qui souhaitent nous appuyer soit :<br
 📩 **Intéressé à collaborer ?**<br>
 Écrivez-nous dès maintenant à [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) pour recevoir notre dossier de partenariat.<br><br>
 
-[🇬🇧 English version](../en/sponsorship.html){:class="lang-switch"}
+[English version](../en/sponsorship.html){:class="lang-switch"}
 
 
