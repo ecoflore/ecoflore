@@ -32,4 +32,4 @@ Here is a photo of our prototype:
 More details to come.
 
 <br><br>
- [🇫🇷 Version française](../fr/projet.html){:class="lang-switch"}
+ [Version française](../fr/projet.html){:class="lang-switch"}
