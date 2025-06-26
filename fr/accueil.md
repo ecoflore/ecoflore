@@ -14,4 +14,4 @@ C'est ici qu'intervient **ECOFLORE**.
 Notre équipe se distingue en proposant une solution polyvalente et respectueuse de l’environnement, capable d’accélérer et d’optimiser les efforts de replantation sur des sites sensibles et difficiles d’accès.
 
 <br><br>
-[🇬🇧 English version](../en/home.html){:class="lang-switch"}
+[English version](../en/home.html){:class="lang-switch"}
