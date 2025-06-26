@@ -8,8 +8,6 @@ lang: fr-en
 
 ---
 
-### 🇫🇷 Français
-
 Bienvenue sur le site officiel de **ECOFLORE**, un projet universitaire se déroulant à l’Université de Sherbrooke visant à reverdir les berges et les accotements perturbés par l’érosion et les activités humaines.<br><br>
 
 Vous pouvez naviguer dans le site en choisissant votre langue préférée ci-dessous.<br><br>
@@ -21,7 +19,6 @@ Vous pouvez naviguer dans le site en choisissant votre langue préférée ci-des
 ## Welcome to ECOFLORE
 
 ---
-### 🇬🇧 English
 
 Welcome to the official website of **ECOFLORE**, a student-led project from Université de Sherbrooke dedicated to replanting and restoring riverbanks and roadsides affected by erosion and human activity.<br><br>
 
