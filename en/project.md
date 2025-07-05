@@ -26,8 +26,6 @@ More details to come.
 
 ### Details
 
-Here is a photo of our prototype:  
-![Prototype #1](../images/197640-download-free-space-wallpaper-4k-3840x2160.jpg)
 
 More details to come.
 
