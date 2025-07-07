@@ -15,10 +15,10 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
 
 ---
 
-#### Ingénierie Électrique
+<!--#### Ingénierie Électrique-->
 
 <div class="team-grid">
-
+<h2>Ingénierie Électrique</h2>
 <div class="team-member">
   <img src="../images/membres/jerson.JPG" alt="Jerson Andrey Angel Martinez" class="portrait">
   <h4>Jerson Andrey Angel Martinez</h4>
@@ -29,7 +29,7 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
   <h4>Gabriel Nadeau</h4>
 </div>
 
-#### Ingénierie Mécanique
+<h2>Ingénierie Mécanique</h2>
 <div class="team-member">
   <img src="../images/membres/adelie.JPG" alt="Adélie Groleau" class="portrait">
   <h4>Adélie Groleau</h4>
