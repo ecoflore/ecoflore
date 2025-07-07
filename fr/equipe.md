@@ -56,6 +56,8 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
   </div>
 </div>
 
+[English version](../en/team.html){:class="lang-switch"}
+
 <!--
 #### Ingénierie Électrique
 ![Jerson Andrey Angel Martinez](../images/membres/jerson.JPG){: .portrait}
@@ -73,4 +75,4 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
 - Daniel Philippot
 -->
 
-[English version](../en/team.html){:class="lang-switch"}
+
