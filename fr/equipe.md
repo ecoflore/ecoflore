@@ -16,15 +16,66 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
 ---
 
 #### Ingénierie Électrique
+
+<div class="team-grid">
+
+<div class="team-member">
+  <img src="../images/membres/jerson.JPG" alt="Jerson Andrey Angel Martinez" class="portrait">
+  <h4>Jerson Andrey Angel Martinez</h4>
+</div>
+
+<div class="team-member">
+  <img src="../images/membres/gabriel.JPG" alt="Gabriel Nadeau" class="portrait">
+  <h4>Gabriel Nadeau</h4>
+</div>
+
+#### Ingénierie Mécanique
+<div class="team-member">
+  <img src="../images/membres/adelie.JPG" alt="Adélie Groleau" class="portrait">
+  <h4>Adélie Groleau</h4>
+</div>
+
+<div class="team-member">
+  <img src="../images/membres/alice.JPG" alt="Alice Joncas" class="portrait">
+  <h4>Alice Joncas</h4>
+</div>
+
+<div class="team-member">
+  <img src="../images/membres/jeremy.JPG" alt="Jérémy Lavoie" class="portrait">
+  <h4>Jérémy Lavoie</h4>
+</div>
+
+<div class="team-member">
+  <img src="../images/membres/samuel.JPG" alt="Samuel Larouche" class="portrait">
+  <h4>Samuel Larouche</h4>
+</div>
+
+<div class="team-member">
+  <img src="../images/membres/isaac.JPG" alt="Isaac Morin-Sanscartier" class="portrait">
+  <h4>Isaac Morin-Sanscartier</h4>
+</div>
+
+<div class="team-member">
+  <img src="../images/membres/daniel.JPG" alt="Daniel Philippot" class="portrait">
+  <h4>Daniel Philippot</h4>
+</div>
+
+</div>
+
+<!--
+![Jerson Andrey Angel Martinez](../images/membres/jerson.JPG){: .portrait}
 - Jerson Andrey Angel Martinez
+![Gabriel Nadeau](../images/membres/gabriel.JPG){: .portrait}
 - Gabriel Nadeau
 
 #### Ingénierie Mécanique
+![Adélie Groleau](../images/membres/adelie.JPG){: .portrait}
 - Adélie Groleau
 - Alice Joncas
-- Daniel Philippot
-- Isaac Morin-Sanscartier
 - Jérémy Lavoie
 - Samuel Larouche
+- Isaac Morin-Sanscartier
+- Daniel Philippot
+-->
 
 [English version](../en/team.html){:class="lang-switch"}
