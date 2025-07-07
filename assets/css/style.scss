@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* === GLOBAL === */
+/****************************** === GLOBAL === ******************************/
 body {
   width: 90%;
   max-width: 90% !important;
@@ -13,7 +13,7 @@ body {
   // background-color: #d7d7d7; // optionnel
 }
 
-/* === LIENS === */
+/****************************** === LIENS === ******************************/
 a {
   color: #FFFEDA;
   text-decoration: none;
@@ -35,7 +35,7 @@ a:hover,
   color: #001CC4;
 }
 
-/* Lien pour courriel */
+/****************************** Lien pour courriel ******************************/
 a[href^="mailto:"] {
   color: #02391E; /* couleur de ton choix */
   text-decoration: underline; /* facultatif */
@@ -46,7 +46,7 @@ a[href^="mailto:"]:hover {
   color: #001CC4; /* couleur au survol */
 }
 
-/* Lien pour changer de langue */
+/****************************** Lien pour changer de langue ******************************/
 .lang-switch {
   color: #02391E; /* Choisis la couleur de ton choix */
   text-decoration: none;
@@ -56,7 +56,7 @@ a[href^="mailto:"]:hover {
   color: #001CC4; /* Choisis la couleur au survol */
 }
 
-/* === TITRES === */
+/****************************** === TITRES === ******************************/
 h, h1, h2, h3 {
   font-family: 'Aptos Narrow', sans-serif;
 }
@@ -77,12 +77,12 @@ h3 {
   color: #31991d;
 }
 
-/* === SEPARATEUR === */
+/****************************** === SEPARATEUR === ******************************/
 hr {
   color: #2a4728;
 }
 
-/* === HEADER GENERAL === */
+/****************************** === HEADER GENERAL === ******************************/
 header {
   width: 100%;
   padding: 0;
@@ -92,18 +92,18 @@ header {
   align-items: center;
 }
 
-/* === TITRE DU SITE === */
+/****************************** === TITRE DU SITE === ******************************/
 .site-title {
   text-align: left;
 }
 
-/* === LOGO === */
+/****************************** === LOGO === ******************************/
 .site-logo {
   width: 300px;
   height: auto;
 }
 
-/* === CONTAINER PRINCIPAL === */
+/***************************** === CONTAINER PRINCIPAL === ******************************/
 .container,
 .wrapper,
 .inner {
@@ -113,7 +113,7 @@ header {
   padding: 0;
 }
 
-/* === SECTION PRINCIPALE === */
+/****************************** === SECTION PRINCIPALE === ******************************/
 .main {
   max-width: 75%;
   width: 75%;
@@ -121,7 +121,7 @@ header {
   padding: 0;
 }
 
-/* === NAVIGATION === */
+/****************************** === NAVIGATION === ******************************/
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -131,7 +131,7 @@ header {
   background-color: #02391E;
 }
 
-/* LOGO + TEXTE CÔTE À CÔTE */
+/****************************** LOGO + TEXTE CÔTE À CÔTE *****************************/
 .brand {
   display: flex;
   align-items: center;
@@ -143,7 +143,36 @@ header {
   font-weight: bold;
   color: #FFFEDA;
 }
-/* PHOTOS MEMBRES*/
+/****************************** PHOTOS MEMBRES ****************************/
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px; /* espace entre les colonnes */
+  margin: 30px 0;
+}
+
+.team-member {
+  width: 45%; /* deux membres par ligne */
+  text-align: center;
+}
+
+.team-member img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive mobile : un membre par ligne */
+@media (max-width: 768px) {
+  .team-member {
+    width: 100%;
+  }
+}
+
 .portrait {
   width: 200px;           // ajuste la largeur selon ton besoin
   height: auto;           // garde les proportions
@@ -152,13 +181,14 @@ header {
   margin: 10px;           // espace autour de l’image
   //box-shadow: 0 4px 8px rgba(0,0,0,0.2);  // optionnel : ombre douce
 }
-/* LIENS NAVIGATION */
+
+/****************************** LIENS NAVIGATION *****************************/
 .nav-links {
   display: flex;
   gap: 40px;
 }
 
-/* MENU BURGER – CACHÉ PAR DÉFAUT */
+/****************************** MENU BURGER – CACHÉ PAR DÉFAUT ******************************/
 .toggle-button {
   display: none;
   font-size: 28px;
@@ -168,7 +198,7 @@ header {
   cursor: pointer;
 }
 
-/* === RESPONSIVE (mobile) === */
+/****************************** === RESPONSIVE (mobile) === ******************************/
 @media (max-width: 768px) {
   .toggle-button {
     display: block;
