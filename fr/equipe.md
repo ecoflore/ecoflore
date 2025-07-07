@@ -5,7 +5,7 @@ lang: fr
 ---
 ## Notre Équipe <br><br>
 
-![Membres de l'équipe ECOFLORE](../images/DSC_0097.JPG)
+![Membres de l'équipe ECOFLORE](../images/DSC_0097.JPG){: .portraitequipe}
 
 Nous sommes une équipe de 8 étudiants en génie à l’Université de Sherbrooke.<br>
 Chacun de nous possède un parcours unique, qui façonne notre vision et renforce notre complémentarité.<br><br>
@@ -30,6 +30,7 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
 </div>
 
 <h2>Ingénierie Mécanique</h2>
+
 <div class="team-member">
   <img src="../images/membres/adelie.JPG" alt="Adélie Groleau" class="portrait">
   <h4>Adélie Groleau</h4>
