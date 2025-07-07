@@ -143,7 +143,15 @@ header {
   font-weight: bold;
   color: #FFFEDA;
 }
-
+/* PHOTOS MEMBRES*/
+.portrait {
+  width: 200px;           // ajuste la largeur selon ton besoin
+  height: auto;           // garde les proportions
+  border-radius: 10px;    // optionnel : coins arrondis
+  object-fit: cover;      // pour bien remplir la boîte si tu fixes la hauteur
+  margin: 10px;           // espace autour de l’image
+  //box-shadow: 0 4px 8px rgba(0,0,0,0.2);  // optionnel : ombre douce
+}
 /* LIENS NAVIGATION */
 .nav-links {
   display: flex;
