@@ -175,7 +175,7 @@ header {
 
 .team-member img {
   width: 100%;
-  max-width: 150px;
+  max-width: 75px;
   height: auto;
   border-radius: 10px;
   object-fit: cover;
@@ -191,7 +191,7 @@ header {
 
 .portrait {
   width: auto;           // ajuste la largeur selon ton besoin
-  height: 200px;           // garde les proportions
+  height: 75px;           // garde les proportions
   border-radius: 10px;    // optionnel : coins arrondis
   object-fit: cover;      // pour bien remplir la boîte si tu fixes la hauteur
   margin: 10px;           // espace autour de l’image
