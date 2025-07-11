@@ -144,14 +144,14 @@ header {
   color: #FFFEDA;
 }
 /****************************** PHOTO ÉQUIPE ****************************/
-/*.portraitequipe {
-  width: auto;           // ajuste la largeur selon ton besoin
-  height: 200px;           // garde les proportions
+.portraitequipe {
+  width: 800px;           // ajuste la largeur selon ton besoin
+  height: auto;           // garde les proportions
   border-radius: 10px;    // optionnel : coins arrondis
   object-fit: cover;      // pour bien remplir la boîte si tu fixes la hauteur
   margin: 10px;           // espace autour de l’image
   //box-shadow: 0 4px 8px rgba(0,0,0,0.2);  // optionnel : ombre douce
-}*/
+}
 
 
 /****************************** PHOTOS MEMBRES ****************************/
