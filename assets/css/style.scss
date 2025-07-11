@@ -145,8 +145,8 @@ header {
 }
 /****************************** PHOTO ÉQUIPE ****************************/
 .portraitequipe {
-  width: 800px;           // ajuste la largeur selon ton besoin
-  height: auto;           // garde les proportions
+  width: auto;           // ajuste la largeur selon ton besoin
+  height: 800px;           // garde les proportions
   border-radius: 10px;    // optionnel : coins arrondis
   object-fit: cover;      // pour bien remplir la boîte si tu fixes la hauteur
   margin: 10px;           // espace autour de l’image
