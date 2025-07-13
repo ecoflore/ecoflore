@@ -5,7 +5,7 @@ lang: fr
 ---
 ## Notre Équipe <br><br>
 
-![Membres de l'équipe ECOFLORE](../images/DSC_0097.JPG)
+![Membres de l'équipe ECOFLORE](../images/DSC_0097.JPG){: .portraitequipe}
 
 Nous sommes une équipe de 8 étudiants en génie à l’Université de Sherbrooke.<br>
 Chacun de nous possède un parcours unique, qui façonne notre vision et renforce notre complémentarité.<br><br>
