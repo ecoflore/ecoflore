@@ -149,8 +149,14 @@ header {
   height: 800px;           // garde les proportions
   border-radius: 10px;    // optionnel : coins arrondis
   object-fit: cover;      // pour bien remplir la boîte si tu fixes la hauteur
-  margin: 10px;           // espace autour de l’image
+  //margin: 10px;           // espace autour de l’image
   //box-shadow: 0 4px 8px rgba(0,0,0,0.2);  // optionnel : ombre douce
+  
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+  //height: auto;
+  //border-radius: 10px;
 }
 
 
