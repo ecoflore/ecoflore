@@ -4,7 +4,7 @@ title: Team
 lang: en
 ---
 <div class="texte-centre">
-## Our Team <br><br>
+  <h2>Our Team </h2>
 </div>
 
 ![ECOFLORE Team members](../images/DSC_0097.JPG){: .portraitequipe}
