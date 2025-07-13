@@ -23,10 +23,12 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
     <div class="team-member">
       <img src="../images/membres/jerson.JPG" alt="Jerson Andrey Angel Martinez" class="portrait">
       <h4>Jerson Andrey Angel Martinez</h4>
+      <p>Étudiant en ingénierie électrique. J’adore comprendre les mystères de la magie noire qu’est l’électricité !</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/gabriel.JPG" alt="Gabriel Nadeau" class="portrait">
       <h4>Gabriel Nadeau</h4>
+      <p>Futur ingénieur électrique. J’adore comprendre comment les systèmes fonctionnent et trouver des solutions à des problèmes modernes.</p>
     </div>
   </div>
 </div>
@@ -36,26 +38,32 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
     <div class="team-member">
       <img src="../images/membres/adelie.JPG" alt="Adélie Groleau" class="portrait">
       <h4>Adélie Groleau</h4>
+      <p>Étudiante en génie mécanique. J’aime penser en dehors des sentiers battus pour trouver des solutions ingénieuses aux problèmes.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/alice.JPG" alt="Alice Joncas" class="portrait">
       <h4>Alice Joncas</h4>
+      <p>Étudiante en génie mécanique. J’ai une curiosité infinie et j’adore le milieu industriel.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/jeremy.JPG" alt="Jérémy Lavoie" class="portrait">
       <h4>Jérémy Lavoie</h4>
+      <p>Étudiant en génie mécanique. J’aime faire de la recherche et expérimenter pour comprendre tout ce qui m’entoure.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/samuel.JPG" alt="Samuel Larouche" class="portrait">
       <h4>Samuel Larouche</h4>
+      <p>Technicien et bientôt ingénieur en génie mécanique. J’aime concevoir et gérer des projets !</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/isaac.JPG" alt="Isaac Morin-Sanscartier" class="portrait">
       <h4>Isaac Morin-Sanscartier</h4>
+      <p>Technicien en génie mécanique et futur ingénieur mécanique. J’adore la conception mécanique ainsi que tout ce qui tourne autour de l’innovation.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/daniel.JPG" alt="Daniel Philippot" class="portrait">
       <h4>Daniel Philippot</h4>
+      <p>Présentement en 3<sup>e</sup> année d’ingénierie mécanique. J’aime tout ce qui est conception et fabrication.</p>
     </div>
   </div>
 </div>
