@@ -11,7 +11,7 @@ Feel free to reach out — we’ll be happy to get back to you as soon as possib
 We’re always open to discussions, collaborations, or sponsorship opportunities.<br>
 Thank you for your interest in our initiative!<br><br>
 
----
+
 
 📧 **Email**:  [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com)<br><br>
 
