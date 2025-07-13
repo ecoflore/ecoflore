@@ -23,14 +23,14 @@ Together, we are committed to carrying this initiative through to completion by 
     <div class="team-member">
       <img src="../images/membres/jerson.JPG" alt="Jerson Andrey Angel Martinez" class="portrait">
       <h4>Jerson Andrey Angel Martinez</h4>
-      <p>Electrical engineering student. </p>
-      <p>I love unraveling the mysteries of the dark magic that is electricity!</p>
+      <p>Electrical engineering student.<br>
+      I love unraveling the mysteries of the dark magic that is electricity!</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/gabriel.JPG" alt="Gabriel Nadeau" class="portrait">
       <h4>Gabriel Nadeau</h4>
-      <p>Future electrical engineer. </p>
-      <p>I love figuring out how systems work and solving modern-day problems.</p>
+      <p>Electrical engineering student.<br>
+      I love figuring out how systems work and solving modern-day problems.</p>
     </div>
   </div>
 </div>
@@ -40,38 +40,38 @@ Together, we are committed to carrying this initiative through to completion by 
     <div class="team-member">
       <img src="../images/membres/adelie.JPG" alt="Adélie Groleau" class="portrait">
       <h4>Adélie Groleau</h4>
-      <p>Mechanical engineering student.</p>
-      <p>I enjoy thinking outside the box to find clever solutions to problems.</p>
+      <p>Mechanical engineering student.<br>
+      I enjoy thinking outside the box to find clever solutions to problems.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/alice.JPG" alt="Alice Joncas" class="portrait">
       <h4>Alice Joncas</h4>
-      <p>Mechanical engineering student.</p>
-      <p>I have endless curiosity and love the industrial field.</p>
+      <p>Mechanical engineering student.<br>
+      I have endless curiosity and love the industrial field.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/jeremy.JPG" alt="Jérémy Lavoie" class="portrait">
       <h4>Jérémy Lavoie</h4>
-      <p>Mechanical engineering student. </p>
-      <p>I enjoy doing research and experimenting to understand the world around me.</p>
+      <p>Mechanical engineering student.<br>
+      I enjoy doing research and experimenting to understand the world around me.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/samuel.JPG" alt="Samuel Larouche" class="portrait">
       <h4>Samuel Larouche</h4>
-      <p>Technician and soon-to-be mechanical engineer. </p>
-      <p>I enjoy designing and managing projects!</p>
+      <p>Mechanical engineering technician and Mechanical engineering student.<br>
+      I enjoy designing and managing projects!</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/isaac.JPG" alt="Isaac Morin-Sanscartier" class="portrait">
       <h4>Isaac Morin-Sanscartier</h4>
-      <p>Mechanical engineering technician and future mechanical engineer. </p>
-      <p>I love design and everything related to innovation.</p>
+      <p>Mechanical engineering technician and Mechanical engineering student.<br>
+      I love design and everything related to innovation.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/daniel.JPG" alt="Daniel Philippot" class="portrait">
       <h4>Daniel Philippot</h4>
-      <p>Currently in my 3rd year of mechanical engineering. </p>
-      <p>I enjoy all things design and manufacturing.</p>
+      <p>Mechanical engineering student.<br>
+      I enjoy all things design and manufacturing.</p>
     </div>
   </div>
 </div>
