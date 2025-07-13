@@ -18,7 +18,7 @@ We are currently looking for sponsors interested in supporting us either:<br>
 - Strengthen your image as a company committed to sustainable innovation.<br><br>
 
 We invite you to consult our complete sponsorship package in PDF format: 
-<a href="{{ '../assets/pdf/Sponsorship_Package_ECOFLORE_ENG_rev1_03_07_2025.pdf' | relative_url }}" target="_blank" class="lang-switch"> Download the sponsorship package</a>
+<a href="{{ '/assets/pdf/Sponsorship_Package_ECOFLORE_ENG_rev1_03_07_2025.pdf' | relative_url }}" target="_blank" class="lang-switch"> Download the sponsorship package</a>
 <br>
 
 📩 **Interested in partnering with us?**<br>
