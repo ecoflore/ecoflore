@@ -23,10 +23,12 @@ Together, we are committed to carrying this initiative through to completion by 
     <div class="team-member">
       <img src="../images/membres/jerson.JPG" alt="Jerson Andrey Angel Martinez" class="portrait">
       <h4>Jerson Andrey Angel Martinez</h4>
+      <p>Electrical engineering student. I love unraveling the mysteries of the dark magic that is electricity!</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/gabriel.JPG" alt="Gabriel Nadeau" class="portrait">
       <h4>Gabriel Nadeau</h4>
+      <p>Future electrical engineer. I love figuring out how systems work and solving modern-day problems.</p>
     </div>
   </div>
 </div>
@@ -36,26 +38,32 @@ Together, we are committed to carrying this initiative through to completion by 
     <div class="team-member">
       <img src="../images/membres/adelie.JPG" alt="Adélie Groleau" class="portrait">
       <h4>Adélie Groleau</h4>
+      <p>Mechanical engineering student. I enjoy thinking outside the box to find clever solutions to problems.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/alice.JPG" alt="Alice Joncas" class="portrait">
       <h4>Alice Joncas</h4>
+      <p>Mechanical engineering student. I have endless curiosity and love the industrial field.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/jeremy.JPG" alt="Jérémy Lavoie" class="portrait">
       <h4>Jérémy Lavoie</h4>
+      <p>Mechanical engineering student. I enjoy doing research and experimenting to understand the world around me.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/samuel.JPG" alt="Samuel Larouche" class="portrait">
       <h4>Samuel Larouche</h4>
+      <p>Technician and soon-to-be mechanical engineer. I enjoy designing and managing projects!</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/isaac.JPG" alt="Isaac Morin-Sanscartier" class="portrait">
       <h4>Isaac Morin-Sanscartier</h4>
+      <p>Mechanical engineering technician and future mechanical engineer. I love design and everything related to innovation.</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/daniel.JPG" alt="Daniel Philippot" class="portrait">
       <h4>Daniel Philippot</h4>
+      <p>Currently in my 3rd year of mechanical engineering. I enjoy all things design and manufacturing.</p>
     </div>
   </div>
 </div>
