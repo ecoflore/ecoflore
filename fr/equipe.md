@@ -23,14 +23,14 @@ Ensemble, nous travaillons avec passion et rigueur pour mener à bien ce projet 
     <div class="team-member">
       <img src="../images/membres/jerson.JPG" alt="Jerson Andrey Angel Martinez" class="portrait">
       <h4>Jerson Andrey Angel Martinez</h4>
-      <p>Étudiant en ingénierie électrique. </p>
-      <p>J’adore comprendre les mystères de la magie noire qu’est l’électricité !</p>
+      <p>Étudiant en ingénierie électrique.<br>
+      J’adore comprendre les mystères de la magie noire qu’est l’électricité !</p>
     </div>
     <div class="team-member">
       <img src="../images/membres/gabriel.JPG" alt="Gabriel Nadeau" class="portrait">
       <h4>Gabriel Nadeau</h4>
-      <p>Étudiant en ingénierie électrique. </p>
-      <p>J’adore comprendre comment les systèmes fonctionnent et trouver des solutions à des problèmes modernes.</p>
+      <p>Étudiant en ingénierie électrique.<br>
+      J’adore comprendre comment les systèmes fonctionnent et trouver des solutions à des problèmes modernes.</p>
     </div>
   </div>
 </div>
