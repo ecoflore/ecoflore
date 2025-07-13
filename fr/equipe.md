@@ -3,7 +3,9 @@ layout: default
 title: Équipe
 lang: fr
 ---
+<div class="texte-centre">
 ## Notre Équipe <br><br>
+</div>
 
 ![Membres de l'équipe ECOFLORE](../images/DSC_0097.JPG){: .portraitequipe}
 
