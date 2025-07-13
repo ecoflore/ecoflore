@@ -5,7 +5,7 @@ lang: en
 ---
 ## Our Team <br><br>
 
-![ECOFLORE Team members](../images/DSC_0097.JPG)
+![ECOFLORE Team members](../images/DSC_0097.JPG){: .portraitequipe}
 
 We are a team of 8 engineering students from the Université de Sherbrooke.<br>
 Each of us brings a unique background, shaping our perspectives and enhancing our collaboration.<br><br>
