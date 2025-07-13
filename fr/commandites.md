@@ -20,7 +20,7 @@ Nous sommes à la recherche de partenaires qui souhaitent nous appuyer soit :<br
 Nous vous invitons à consulter notre plan de commandite complet: 
 <a href="{{ '/assets/pdf/Plan de commandite-ECOFLORE-rev1-03-07-2025.pdf' | relative_url }}" target="_blank" class="lang-switch">Télécharger le plan de commandite</a>
 
-📩 ####**Intéressé à collaborer ?**<br>
+📩 **Intéressé à collaborer ?**<br>
 Écrivez-nous dès maintenant à [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) pour recevoir notre dossier de partenariat.<br><br>
 
 [English version](../en/sponsorship.html){:class="lang-switch"}
