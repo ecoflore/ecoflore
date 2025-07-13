@@ -1,8 +1,8 @@
-
+---
 layout: default
 title: Project
 lang: en
-
+---
 ### Goals
 
 #### A sustainable, eco-friendly and innovative solution
