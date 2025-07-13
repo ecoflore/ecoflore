@@ -17,6 +17,8 @@ We are currently looking for sponsors interested in supporting us either:<br>
 - Gain visibility on our website, social media, and during public presentations.<br>
 - Strengthen your image as a company committed to sustainable innovation.<br><br>
 
+We invite you to consult our complete sponsorship package in PDF format:: <a href="{{ '../assets/pdf/Plan de commandite-ECOFLORE-ENG-rev1-03-07-2025.pdf' | relative_url }}" target="_blank"> Download the sponsorship package</a>
+
 📩 **Interested in partnering with us?**<br>
 Contact us at [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com) to receive our sponsorship package.<br><br>
 
