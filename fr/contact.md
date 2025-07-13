@@ -11,7 +11,7 @@ N’hésitez pas à nous écrire, il nous fera plaisir de vous répondre dans le
 Nous sommes toujours ouverts aux échanges, collaborations ou partenariats.<br>
 Merci de l’intérêt que vous portez à notre initiative !<br><br>
 
----
+
 
 📧 **Courriel**:  [projet.ecoflore@outlook.com](mailto:projet.ecoflore@outlook.com)<br><br>
 
