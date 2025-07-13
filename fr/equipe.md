@@ -4,7 +4,7 @@ title: Équipe
 lang: fr
 ---
 <div class="texte-centre">
-## Notre Équipe <br><br>
+  <h2>Notre Équipe</h2>
 </div>
 
 ![Membres de l'équipe ECOFLORE](../images/DSC_0097.JPG){: .portraitequipe}
